@@ -21,7 +21,7 @@ habilidades y vías de contacto como Desarrollador Web Front End Junior.
 
 ## 🌐 Demo en vivo
 
-[https://edwin-alejandro-portfolio.netlify.app](https://edwin-alejandro-portfolio.netlify.app)
+[https://portfolio-edwin-alejandro-villamizar.netlify.app/]. (https://portfolio-edwin-alejandro-villamizar.netlify.app/))
 
 ## ▶️ Cómo verlo localmente
 
